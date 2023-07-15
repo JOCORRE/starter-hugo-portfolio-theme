@@ -1,4 +1,4 @@
-# [Welcome to my **Data Science** and **Machine Learning Engineering** Project Portfolio. (ongoing)](https://github.com/wowchemy/starter-hugo-portfolio-theme)
+# [Welcome to my Data Science and Machine Learning Engineering Project Portfolio. (ongoing)](https://github.com/wowchemy/starter-hugo-portfolio-theme)
 
 # [Welcome to my **Data Science** and **Machine Learning Engineering** Project Portfolio. (ongoing)](https://github.com/wowchemy/starter-hugo-portfolio-theme)
 
