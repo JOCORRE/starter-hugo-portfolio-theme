@@ -1,12 +1,18 @@
 # [Welcome to my Data Science and Machine Learning Engineering Project Portfolio. (ongoing)](https://github.com/wowchemy/starter-hugo-portfolio-theme)
 
-[Click here](https://hugo-portfolio-theme.netlify.app/) to access the page where I presen projects developed from public data base, with resolutions of business problems using concepts and tools of Data Science and Machine Learning Engineering.
+[Click here](https://hugo-portfolio-theme.netlify.app/) to access the page where I present projects developed from public data base, with resolutions of business problems using concepts and tools of Data Science and Machine Learning Engineering.
 
 # [Bievenido a mi Portafolio de Proyectos de Ciencia de Datos y Ingeniería de Machine Learning. (en proceso)](https://github.com/wowchemy/starter-hugo-portfolio-theme)
 
+[Haz clic](https://hugo-portfolio-theme.netlify.app/) para acceder a la página donde presento proyectos desarrollados a partir de base de datos públicas, con resolución de problemas de negocio utilizando conceptos y herramientas de Data Science y Ingeniería de Machine Learning.
+
 # [Bem-vindo ao meu Portfólio de Projetos de Data Science e Engenharia de Machine Learning. (em andamento)](https://github.com/wowchemy/starter-hugo-portfolio-theme)
 
+[Aperte aqui](https://hugo-portfolio-theme.netlify.app/) para acessar a página onde apresento projetos desenvolvidos a partir  de base de dados públicos, com resoluções de problemas de negócios utilizando conceitos e ferramentas de Data Science e Machine Learning Engineering.
+
 # [Willkommen zu meinen Projektportfolio für Data Science und Machine Learning Engineering. (in Bearbeitung)](https://github.com/wowchemy/starter-hugo-portfolio-theme)
+
+[Klicken Sie hier,](https://hugo-portfolio-theme.netlify.app/) um auf die Seite zuzugreifen, auf der ich Projekte vorstelle, die aus öffentlichen Datebanken entwickelt wurden und Geschäftsprobleme mithilfe von Konzepten und Tools aus den Bereichen Data Science und Machine Learning Engineering lösen.
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
