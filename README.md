@@ -12,7 +12,7 @@
 
 # [Willkommen zu meinen Projektportfolio für Data Science und Machine Learning Engineering. (in Bearbeitung)](https://github.com/wowchemy/starter-hugo-portfolio-theme)
 
-[Klicken Sie hier,](https://hugo-portfolio-theme.netlify.app/) um auf die Seite zuzugreifen, auf der ich Projekte vorstelle, die aus öffentlichen Datebanken entwickelt wurden und Geschäftsprobleme mithilfe von Konzepten und Tools aus den Bereichen Data Science und Machine Learning Engineering lösen.
+[Klicken Sie hier,](https://hugo-portfolio-theme.netlify.app/) um auf die Seite zuzugreifen, auf der ich Projekte vorstelle, die aus öffentlichen Datenbanken entwickelt wurden und Geschäftsprobleme mithilfe von Konzepten und Tools aus den Bereichen Data Science und Machine Learning Engineering lösen.
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
